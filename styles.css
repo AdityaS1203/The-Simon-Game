@@ -1,0 +1,58 @@
+body {
+  text-align:center;
+  background-color: #011F3F;
+}
+h1{
+  color: pink;
+  font-size: 3rem;
+}
+h4{
+  color:pink;
+}
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  color: red;
+  background-color: red;
+}
+
+.green {
+  color: green;
+  background-color: green;
+}
+
+.blue {
+  color:blue;
+  background-color: blue;
+}
+
+.yellow {
+  color:yellow;
+  background-color: yellow;
+}
+.btn{
+  font-size: 0;
+  padding: 6rem 6rem;
+  margin:1rem;
+  border-color: black;
+  border-radius: 2rem;
+  border-width: 0.5rem;
+}
+.btn1{
+  font-size: 2rem;
+  padding: 1rem 1rem;
+  border-color: black;
+  border-radius: 2rem;
+  border-width: 0.5rem;
+}
+.pressed{
+  box-shadow: 0 2rem 2rem 0 #DBEDF3;
+  opacity: 0.5;
+}
+.end{
+  color: red;
+  font-size: 5rem;
+}
